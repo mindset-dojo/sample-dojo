@@ -63,8 +63,7 @@ Stories:
 Offshoots:
 
 * [Circle Communities Pattern - InnerSource Commons Foundation](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/1-initial/circle-communities.md)
-* [Mindset Dojo Program | Community](https://mindset.dojo.center)
-* [Mindset Dojo Open Source Program](https://github.com/mindset-dojo/mindset-dojo.github.io)
+* [Mindset Dojo (Open Source) Program | Community](https://mindset.dojo.center)
 
 ## Tour
 
